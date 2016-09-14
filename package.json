@@ -1,0 +1,26 @@
+{
+  "name": "gulp demo",
+  "version": "1.0.0",
+  "description": "Gulp automation demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilumdarshana/Gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Dilum Darshana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilumdarshana/Gulp/issues"
+  },
+  "homepage": "https://github.com/dilumdarshana/Gulp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
